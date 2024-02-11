@@ -1,3 +1,2 @@
-# api
-## Tissue Histology
-
+# Digital Histology System (DHS)
+## api
